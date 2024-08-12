@@ -1,5 +1,21 @@
 # An-lise-de-Performance-de-A-es-e-Compara-o-de-Investimentos
 Análise de Performance de Ações e Comparação de Investimentos
+Este repositório contém um desafio de análise de performance de ações, com foco em:
+
+Identificação das Ações com Maior Variação Percentual:
+
+Encontre a ação que mais subiu e a que mais caiu em termos percentuais entre o início de 2024 e maio de 2024.
+Comparação de Rentabilidade de Portfólios:
+
+Compare o desempenho de dois portfólios de ações com um investimento inicial de R$1.000. Cada portfólio é composto por ações específicas, e a análise determinará qual portfólio teve o maior retorno, considerando que o investimento é proporcional entre os ativos de cada carteira.
+Dados Utilizados
+Preços das Ações: Inclui preços de abertura no início de 2024 e preços em maio de 2024.
+Carteiras de Ações: Duas carteiras de ações são analisadas para comparar a rentabilidade.
+Metodologia
+Cálculo da Variação Percentual: Calcula o aumento ou diminuição percentual do preço das ações.
+Análise de Portfólios: Determina qual portfólio teve o melhor desempenho com base no retorno percentual das ações.
+Arquivo Principal
+analise_performance.py: Script Python que realiza a análise e comparação das ações e portfólios.
 
 
 ### Temos o preço de diferentes ações no início de 2024 e em maio de 2024, queremos:
